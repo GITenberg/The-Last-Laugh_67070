@@ -1,0 +1,32 @@
+_repo: The-Last-Laugh_67070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, David Herbert
+    - Lawrence, D.H.
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: https://en.wikipedia.org/wiki/D._H._Lawrence
+description: ''
+gutenberg_issued: '2022-01-01'
+identifiers:
+  gutenberg: '67070'
+language: en
+pgterms:marc904: https://archive.org/details/sim_ainslees_1926-01_56_5
+pgterms:marc905: 20211204034253lawrence
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Ainslee Co.,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Last Laugh
+url: http://www.gutenberg.org/ebooks/67070
